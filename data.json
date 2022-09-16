@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Introduction to React",
+      "body": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React. js is virtual DOM",
+      "author": "Dev",
+      "id": 4
+    },
+    {
+      "title": "Custom hooks in react",
+      "body": "Custom Hooks are a mechanism to reuse stateful logic (such as setting up a subscription and remembering the current value), but every time you use a custom Hook, all state and effects inside of it are fully isolated. How does a custom Hook get isolated state? Each call to a Hook gets isolated state.The main reason to write a custom hook is for code reusability. For example, instead of writing the same code across multiple components that use the same common stateful logic (say a “setState” or localStorage logic), you can put that code inside a custom hook and reuse it.",
+      "author": "Akshay Saini",
+      "id": 5
+    },
+    {
+      "title": "Introduction of React-Redux",
+      "body": "React Redux is the official React binding for Redux. It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data. Redux helps apps to scale by providing a sensible way to manage state through a unidirectional data flow model. React Redux is conceptually simple.",
+      "author": "Dev",
+      "id": 6
+    },
+    {
+      "title": "Introduction of Redux",
+      "body": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+      "author": "dev",
+      "id": 7
+    }
+  ]
+}
